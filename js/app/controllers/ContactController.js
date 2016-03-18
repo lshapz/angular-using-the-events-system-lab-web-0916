@@ -1,5 +1,11 @@
-function ContactController() {
-    this.contacts = [
+function ContactController($rootScope) {
+    var ctrl = this;
+
+    $rootScope.$on('remove', function (event, data) {
+        ctrl.contacts.splice(data, 1);
+    });
+
+    ctrl.contacts = [
         {
             "gender": "male",
             "name": {
