@@ -7,7 +7,6 @@ function ContactController($rootScope) {
 
     ctrl.contacts = [
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "liam",
@@ -32,7 +31,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "jayden",
@@ -57,7 +55,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "mary",
@@ -82,7 +79,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "holly",
@@ -107,7 +103,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "heidi",
@@ -132,7 +127,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "susan",
@@ -157,7 +151,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "bobby",
@@ -182,7 +175,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "suzy",
@@ -207,7 +199,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "steven",
@@ -232,7 +223,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "pat",
@@ -257,7 +247,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "jessica",
@@ -282,7 +271,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "liam",
@@ -307,7 +295,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "larry",
@@ -332,7 +319,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "edward",
@@ -357,7 +343,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "heather",
@@ -382,7 +367,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "marie",
@@ -407,7 +391,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "kelly",
@@ -432,7 +415,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "melissa",
@@ -457,7 +439,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "leo",
@@ -482,7 +463,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "vincent",
@@ -507,7 +487,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "rebecca",
@@ -532,7 +511,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "chad",
@@ -557,7 +535,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "ava",
@@ -582,7 +559,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "rafael",
@@ -607,7 +583,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "eugene",
@@ -632,7 +607,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "molly",
@@ -657,7 +631,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "kayla",
@@ -682,7 +655,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "ted",
@@ -707,7 +679,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "diane",
@@ -732,7 +703,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "alice",
@@ -757,7 +727,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "daniel",
@@ -782,7 +751,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "timothy",
@@ -807,7 +775,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "judy",
@@ -832,7 +799,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "britney",
@@ -857,7 +823,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "alison",
@@ -882,7 +847,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "terrance",
@@ -907,7 +871,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "ethan",
@@ -932,7 +895,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "maya",
@@ -957,7 +919,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "brandon",
@@ -982,7 +943,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "gregory",
@@ -1007,7 +967,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "lee",
@@ -1032,7 +991,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "vincent",
@@ -1057,7 +1015,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "linda",
@@ -1082,7 +1039,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "glen",
@@ -1107,7 +1063,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "howard",
@@ -1132,7 +1087,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "tracey",
@@ -1157,7 +1111,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "rose",
@@ -1182,7 +1135,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "tyler",
@@ -1207,7 +1159,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "suzy",
@@ -1232,7 +1183,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "billy",
@@ -1257,7 +1207,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "abby",
@@ -1282,7 +1231,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "clayton",
@@ -1307,7 +1255,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "marcus",
@@ -1332,7 +1279,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "chloe",
@@ -1357,7 +1303,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "linda",
@@ -1382,7 +1327,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "matthew",
@@ -1407,7 +1351,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "kirk",
@@ -1432,7 +1375,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "isabella",
@@ -1457,7 +1399,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "terry",
@@ -1482,7 +1423,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "britney",
@@ -1507,7 +1447,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "dick",
@@ -1532,7 +1471,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "linda",
@@ -1557,7 +1495,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "cathy",
@@ -1582,7 +1519,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "norman",
@@ -1607,7 +1543,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "amanda",
@@ -1632,7 +1567,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "tracy",
@@ -1657,7 +1591,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "jessica",
@@ -1682,7 +1615,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "ellen",
@@ -1707,7 +1639,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "holly",
@@ -1732,7 +1663,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "heidi",
@@ -1757,7 +1687,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "james",
@@ -1782,7 +1711,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "ella",
@@ -1807,7 +1735,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "lonnie",
@@ -1832,7 +1759,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "diana",
@@ -1857,7 +1783,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "molly",
@@ -1882,7 +1807,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "diana",
@@ -1907,7 +1831,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "patricia",
@@ -1932,7 +1855,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "adrian",
@@ -1957,7 +1879,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "vicki",
@@ -1982,7 +1903,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "caroline",
@@ -2007,7 +1927,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "ernest",
@@ -2032,7 +1951,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "isabella",
@@ -2057,7 +1975,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "ellen",
@@ -2082,7 +1999,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "paige",
@@ -2107,7 +2023,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "sophia",
@@ -2132,7 +2047,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "ronnie",
@@ -2157,7 +2071,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "jessie",
@@ -2182,7 +2095,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "kenneth",
@@ -2207,7 +2119,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "mary",
@@ -2232,7 +2143,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "julia",
@@ -2257,7 +2167,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "abbie",
@@ -2282,7 +2191,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "eva",
@@ -2307,7 +2215,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "justin",
@@ -2332,7 +2239,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "dylan",
@@ -2357,7 +2263,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "izzie",
@@ -2382,7 +2287,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "izzie",
@@ -2407,7 +2311,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "byron",
@@ -2432,7 +2335,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "rose",
@@ -2457,7 +2359,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "alex",
@@ -2482,7 +2383,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "brittany",
@@ -2507,7 +2407,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "linda",
@@ -2532,7 +2431,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "deborah",
@@ -2557,7 +2455,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "marie",
@@ -2582,7 +2479,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "thomas",
@@ -2607,7 +2503,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "lily",
@@ -2632,7 +2527,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "thomas",
@@ -2657,7 +2551,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "brooke",
@@ -2682,7 +2575,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "dennis",
@@ -2707,7 +2599,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "elliot",
@@ -2732,7 +2623,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "sara",
@@ -2757,7 +2647,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "mandy",
@@ -2782,7 +2671,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "stanley",
@@ -2807,7 +2695,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "tom",
@@ -2832,7 +2719,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "lily",
@@ -2857,7 +2743,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "amy",
@@ -2882,7 +2767,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "william",
@@ -2907,7 +2791,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "kelly",
@@ -2932,7 +2815,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "avery",
@@ -2957,7 +2839,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "martha",
@@ -2982,7 +2863,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "mrs",
                 "first": "caroline",
@@ -3007,7 +2887,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "caitlin",
@@ -3032,7 +2911,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "wade",
@@ -3057,7 +2935,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "miss",
                 "first": "molly",
@@ -3082,7 +2959,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "male",
             "name": {
                 "title": "mr",
                 "first": "thomas",
@@ -3107,7 +2983,6 @@ function ContactController($rootScope) {
             }
         },
         {
-            "gender": "female",
             "name": {
                 "title": "ms",
                 "first": "ellie",
